@@ -1,1 +1,5 @@
-# fact 6 = 6*5*4*3*2*1
+num=str(input('enter your number :'))
+counter=0
+for i in num:
+    counter+=1
+print('counter your number : ',counter)    
